@@ -1,0 +1,11 @@
+{
+  "name": "VisioMente Suite",
+  "description": "Suite interactiva con videojuegos gestuales por MediaPipe, lectores por voz de accesibilidad, escaner de arboles matematicos y traduccion inteligente por voz.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
